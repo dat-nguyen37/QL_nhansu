@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QuanLyNhanSuDataSet9" targetNamespace="http://tempuri.org/QuanLyNhanSuDataSet9.xsd" xmlns:mstns="http://tempuri.org/QuanLyNhanSuDataSet9.xsd" xmlns="http://tempuri.org/QuanLyNhanSuDataSet9.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="conn" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="conn (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Quản_lý_nhân_sự.Properties.Settings.GlobalReference.Default.conn" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TTchucvuTableAdapter" GeneratorDataComponentClassName="TTchucvuTableAdapter" Name="TTchucvu" UserDataComponentName="TTchucvuTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="conn (Settings)" DbObjectName="QuanLyNhanSu.dbo.TTchucvu" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT tencv FROM dbo.TTchucvu</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="tencv" DataSetColumn="tencv" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TTluongTableAdapter" GeneratorDataComponentClassName="TTluongTableAdapter" Name="TTluong" UserDataComponentName="TTluongTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="conn (Settings)" DbObjectName="QuanLyNhanSu.dbo.TTluong" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ngaybd, ngaykt, songaylam, tongtien FROM dbo.TTluong</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ngaybd" DataSetColumn="ngaybd" />
+              <Mapping SourceColumn="ngaykt" DataSetColumn="ngaykt" />
+              <Mapping SourceColumn="songaylam" DataSetColumn="songaylam" />
+              <Mapping SourceColumn="tongtien" DataSetColumn="tongtien" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TTnhanvienTableAdapter" GeneratorDataComponentClassName="TTnhanvienTableAdapter" Name="TTnhanvien" UserDataComponentName="TTnhanvienTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="conn (Settings)" DbObjectName="QuanLyNhanSu.dbo.TTnhanvien" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT hoten, gioitinh, namsinh FROM dbo.TTnhanvien</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="hoten" DataSetColumn="hoten" />
+              <Mapping SourceColumn="gioitinh" DataSetColumn="gioitinh" />
+              <Mapping SourceColumn="namsinh" DataSetColumn="namsinh" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TTphongbanTableAdapter" GeneratorDataComponentClassName="TTphongbanTableAdapter" Name="TTphongban" UserDataComponentName="TTphongbanTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="conn (Settings)" DbObjectName="QuanLyNhanSu.dbo.TTphongban" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT tenpb FROM dbo.TTphongban</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="tenpb" DataSetColumn="tenpb" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QuanLyNhanSuDataSet9" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QuanLyNhanSuDataSet9" msprop:Generator_UserDSName="QuanLyNhanSuDataSet9">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TTchucvu" msprop:Generator_TableClassName="TTchucvuDataTable" msprop:Generator_TableVarName="tableTTchucvu" msprop:Generator_TablePropName="TTchucvu" msprop:Generator_RowDeletingName="TTchucvuRowDeleting" msprop:Generator_RowChangingName="TTchucvuRowChanging" msprop:Generator_RowEvHandlerName="TTchucvuRowChangeEventHandler" msprop:Generator_RowDeletedName="TTchucvuRowDeleted" msprop:Generator_UserTableName="TTchucvu" msprop:Generator_RowChangedName="TTchucvuRowChanged" msprop:Generator_RowEvArgName="TTchucvuRowChangeEvent" msprop:Generator_RowClassName="TTchucvuRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tencv" msprop:Generator_ColumnVarNameInTable="columntencv" msprop:Generator_ColumnPropNameInRow="tencv" msprop:Generator_ColumnPropNameInTable="tencvColumn" msprop:Generator_UserColumnName="tencv" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TTluong" msprop:Generator_TableClassName="TTluongDataTable" msprop:Generator_TableVarName="tableTTluong" msprop:Generator_TablePropName="TTluong" msprop:Generator_RowDeletingName="TTluongRowDeleting" msprop:Generator_RowChangingName="TTluongRowChanging" msprop:Generator_RowEvHandlerName="TTluongRowChangeEventHandler" msprop:Generator_RowDeletedName="TTluongRowDeleted" msprop:Generator_UserTableName="TTluong" msprop:Generator_RowChangedName="TTluongRowChanged" msprop:Generator_RowEvArgName="TTluongRowChangeEvent" msprop:Generator_RowClassName="TTluongRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ngaybd" msprop:Generator_ColumnVarNameInTable="columnngaybd" msprop:Generator_ColumnPropNameInRow="ngaybd" msprop:Generator_ColumnPropNameInTable="ngaybdColumn" msprop:Generator_UserColumnName="ngaybd" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ngaykt" msprop:Generator_ColumnVarNameInTable="columnngaykt" msprop:Generator_ColumnPropNameInRow="ngaykt" msprop:Generator_ColumnPropNameInTable="ngayktColumn" msprop:Generator_UserColumnName="ngaykt" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="songaylam" msprop:Generator_ColumnVarNameInTable="columnsongaylam" msprop:Generator_ColumnPropNameInRow="songaylam" msprop:Generator_ColumnPropNameInTable="songaylamColumn" msprop:Generator_UserColumnName="songaylam" type="xs:int" minOccurs="0" />
+              <xs:element name="tongtien" msprop:Generator_ColumnVarNameInTable="columntongtien" msprop:Generator_ColumnPropNameInRow="tongtien" msprop:Generator_ColumnPropNameInTable="tongtienColumn" msprop:Generator_UserColumnName="tongtien" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TTnhanvien" msprop:Generator_TableClassName="TTnhanvienDataTable" msprop:Generator_TableVarName="tableTTnhanvien" msprop:Generator_TablePropName="TTnhanvien" msprop:Generator_RowDeletingName="TTnhanvienRowDeleting" msprop:Generator_RowChangingName="TTnhanvienRowChanging" msprop:Generator_RowEvHandlerName="TTnhanvienRowChangeEventHandler" msprop:Generator_RowDeletedName="TTnhanvienRowDeleted" msprop:Generator_UserTableName="TTnhanvien" msprop:Generator_RowChangedName="TTnhanvienRowChanged" msprop:Generator_RowEvArgName="TTnhanvienRowChangeEvent" msprop:Generator_RowClassName="TTnhanvienRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="hoten" msprop:Generator_ColumnVarNameInTable="columnhoten" msprop:Generator_ColumnPropNameInRow="hoten" msprop:Generator_ColumnPropNameInTable="hotenColumn" msprop:Generator_UserColumnName="hoten" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="gioitinh" msprop:Generator_ColumnVarNameInTable="columngioitinh" msprop:Generator_ColumnPropNameInRow="gioitinh" msprop:Generator_ColumnPropNameInTable="gioitinhColumn" msprop:Generator_UserColumnName="gioitinh" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="6" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namsinh" msprop:Generator_ColumnVarNameInTable="columnnamsinh" msprop:Generator_ColumnPropNameInRow="namsinh" msprop:Generator_ColumnPropNameInTable="namsinhColumn" msprop:Generator_UserColumnName="namsinh" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TTphongban" msprop:Generator_TableClassName="TTphongbanDataTable" msprop:Generator_TableVarName="tableTTphongban" msprop:Generator_TablePropName="TTphongban" msprop:Generator_RowDeletingName="TTphongbanRowDeleting" msprop:Generator_RowChangingName="TTphongbanRowChanging" msprop:Generator_RowEvHandlerName="TTphongbanRowChangeEventHandler" msprop:Generator_RowDeletedName="TTphongbanRowDeleted" msprop:Generator_UserTableName="TTphongban" msprop:Generator_RowChangedName="TTphongbanRowChanged" msprop:Generator_RowEvArgName="TTphongbanRowChangeEvent" msprop:Generator_RowClassName="TTphongbanRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tenpb" msprop:Generator_ColumnVarNameInTable="columntenpb" msprop:Generator_ColumnPropNameInRow="tenpb" msprop:Generator_ColumnPropNameInTable="tenpbColumn" msprop:Generator_UserColumnName="tenpb" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

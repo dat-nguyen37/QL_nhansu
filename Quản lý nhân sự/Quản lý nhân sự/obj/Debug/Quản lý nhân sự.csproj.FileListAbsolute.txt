@@ -1,0 +1,83 @@
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Quản lý nhân sự.exe.config
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Quản lý nhân sự.exe
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Quản lý nhân sự.pdb
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản lý nhân sự.csprojAssemblyReference.cache
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.Properties.Resources.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản lý nhân sự.csproj.GenerateResource.cache
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản lý nhân sự.csproj.CoreCompileInputs.cache
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản lý nhân sự.exe
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản lý nhân sự.pdb
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.dangnhap.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.DSnhanvien.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.trangchu.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.timkiem.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.chucvu.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.phongban.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.hopdong.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.chamcong.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.tinhluong.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.baocao.resources
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\RdlCompile.cache
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\RdlCompile.compiled
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản lý nhân sự.csproj.CopyComplete
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\EnvDTE.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\stdole.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\Microsoft.MSXML.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản lý nhân sự.csproj.ResolveComReference.cache
+D:\Đồ án net\Quản lý nhân sự\Quản lý nhân sự\obj\Debug\Quản_lý_nhân_sự.dangki.resources
